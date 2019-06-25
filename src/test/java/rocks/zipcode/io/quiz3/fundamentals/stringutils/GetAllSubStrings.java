@@ -1,8 +1,8 @@
 package rocks.zipcode.io.quiz3.fundamentals.stringutils;
 
 import org.junit.Test;
-import rocks.zipcode.io.quiz3.utils.TestUtils;
 import rocks.zipcode.io.quiz3.fundamentals.StringUtils;
+import rocks.zipcode.io.quiz3.utils.TestUtils;
 
 import java.util.Arrays;
 
